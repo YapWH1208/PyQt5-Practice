@@ -7,3 +7,4 @@ Learning Here : [Codemy](https://www.youtube.com/playlist?list=PLCC34OHNcOtpmCA8
 2. [Combo Box](https://github.com/YapWH1208/PyQt5-Practice/blob/main/PyQt5/2%20-%20combo%20boxes.py)
 3. [Spin Box](https://github.com/YapWH1208/PyQt5-Practice/blob/main/PyQt5/3%20-%20spin%20boxes.py)
 4. [Text Box](https://github.com/YapWH1208/PyQt5-Practice/blob/main/PyQt5/4%20-%20text%20boxes.py)
+5. [Forms](https://github.com/YapWH1208/PyQt5-Practice/blob/main/PyQt5/5%20-%20forms.py)
